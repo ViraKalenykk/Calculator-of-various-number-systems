@@ -1,0 +1,13 @@
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\bin\Debug\ПЗ1 АКтКМ.exe.config
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\bin\Debug\ПЗ1 АКтКМ.exe
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\bin\Debug\ПЗ1 АКтКМ.pdb
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1_АКтКМ.CalculusForm.resources
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1_АКтКМ.EnterForm.resources
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1_АКтКМ.Properties.Resources.resources
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1_АКтКМ.TransferForm.resources
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.exe
+C:\Users\Asus\Downloads\Курсова (семестр 3, БД)\ПЗ1 АКтКМ\ПЗ1 АКтКМ\obj\Debug\ПЗ1 АКтКМ.pdb
